@@ -1,4 +1,6 @@
 # CIG
+# include (stio)
+
 Int main (void)
 
 Var x = 0; 
