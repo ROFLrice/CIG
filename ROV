@@ -1,0 +1,52 @@
+# CIG
+Int main (void)
+
+Var x = 0; 
+Var y = 0;
+Var rep = 0;
+Var ROV = 0;
+Var move = 1 unit;
+
+Var turn = fucntion {...
+};
+
+Var record = function {...
+};
+
+Var route = function {
+
+	While (rep < 5, rep++){
+	
+		for(i=0, i<6, i++){
+		Move ROV;
+		x++;
+		record;
+}
+Turn (90);
+Rep++;
+
+	for(i=0, i<6, i++){
+		Move ROV;
+		y++;
+		record;
+}
+Turn (90);
+Rep++;
+
+	for(i=0, i<6, i++){
+		Move ROV;
+		X--;
+		record;
+}
+Turn (90);
+Rep++;
+
+	for(i=0, i<6, i++){
+		Move ROV;
+		y--;
+		record;
+}
+Turn (90);
+Rep++;
+}
+}
