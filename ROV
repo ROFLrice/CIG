@@ -1,7 +1,7 @@
 # CIG
 # include (stio)
 
-Int main (void)
+Int main (void){
 
 Var x = 0; 
 Var y = 0;
@@ -47,8 +47,9 @@ Rep++;
 		Move ROV;
 		y--;
 		record;
-}
+	}
 Turn (90);
 Rep++;
+	}
 }
 }
